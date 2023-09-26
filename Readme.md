@@ -1,5 +1,6 @@
 # Mutek CL 2023 / TouchDesigner Workshop
 Archivos del workshop 2023
+Versión de TD utilizada: 2022.33910
 
 ## Prerequisitos:
 Debes tener [descargado](derivative.ca/download), [instalado](https://docs.derivative.ca/Install_TouchDesigner) y [probado](https://docs.derivative.ca/Key_Manager_Dialog#Creating_a_Key) TouchDesigner en sus ordenadores. Para poder tener esto deben tener en cuenta que para obtener una clave gratuita hay que registrar una cuenta en [derivative.ca](derivative.ca) haciendo clic en "My Account" y luego seleccionando "Create New Account".
